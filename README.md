@@ -1,8 +1,7 @@
 # SIT313-Assignment2
 
-# Shopping app
 
-# Overview
+# Shopping app overview
 A secure application with proven navigation that uses optimized purchasing performance to make your customers' buying experience easy, fast and enjoyable.
 
 # Mobile Application
